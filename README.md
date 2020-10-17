@@ -18,6 +18,8 @@ Follow these steps to set up and work on your project:
 
 ### Task 2: Minimum Viable Product
 
+addd
+
 - Using `knex migrations`, design and write a schema for the `cars` table using the specifications below.
 - Configure `knex` to connect to a `/data/car-dealer.db3` database using the `sqlite3` npm module.
 - Write endpoints to support `CREATE` and `READ` operations on the `cars` resource.
